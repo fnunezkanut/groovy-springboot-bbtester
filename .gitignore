@@ -167,3 +167,9 @@ gradle-app.setting
 # gradle/wrapper/gradle-wrapper.properties
 
 # End of https://www.gitignore.io/api/java,linux,macos,gradle,windows,intellij
+.idea/compiler.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/groovy-springboot-bbtester_main.iml
+.idea/modules/groovy-springboot-bbtester_test.iml
+groovy-springboot-bbtester.iml
