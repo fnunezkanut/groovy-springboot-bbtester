@@ -8,14 +8,14 @@ Any exceptions (and their traces) on any failed tests are shown to allow to quic
 
 This sample project contains 2 test classes, one will fail in order to illustrate what happens during a test failure
 
-##Building a "selfcontained" .jar
+## Building a "selfcontained" .jar
 
 ```shell
 cd /project/dir/
 gradle clean bootRepackage
 ```
 
-##Running your tests
+## Running your tests
 
 Gradle will create a self-contained SpringBoot based .jar file which contains your Black Box tests, 
 which can be executed on a server that has no gradle installed.
