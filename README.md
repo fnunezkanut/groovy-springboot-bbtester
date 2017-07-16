@@ -6,7 +6,9 @@ and any Junit tests annotated with @BBTest will be executed.
 
 Any exceptions (and their traces) on any failed tests are shown to allow to quickly catch issues during smoke testing.
 
-This sample project contains 2 test classes, one will fail in order to illustrate what happens during a test failure
+This sample project contains 2 test classes, one will fail in order to illustrate what happens during a test failure.
+
+(Further background on this project)[https://fidel.ie//2017/07/16/selfcontained-jar-for-blackbox-testing.html]
 
 ## Building a "selfcontained" .jar
 
