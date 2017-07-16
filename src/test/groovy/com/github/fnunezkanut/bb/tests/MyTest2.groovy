@@ -9,7 +9,7 @@ import org.springframework.stereotype.Component
 import static org.junit.Assert.assertEquals
 
 @Component
-@BBTest
+@BBTest //<-- custom annotation, any junit classes with this annotation will be executed in command line running jar
 class MyTest2 {
 
 	final Logger logger = LoggerFactory.getLogger(MyTest2.class)

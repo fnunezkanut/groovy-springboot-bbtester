@@ -173,3 +173,4 @@ gradle-app.setting
 .idea/modules/groovy-springboot-bbtester_main.iml
 .idea/modules/groovy-springboot-bbtester_test.iml
 groovy-springboot-bbtester.iml
+.idea/vcs.xml
