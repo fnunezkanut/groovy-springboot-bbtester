@@ -8,7 +8,7 @@ Any exceptions (and their traces) on any failed tests are shown to allow to quic
 
 This sample project contains 2 test classes, one will fail in order to illustrate what happens during a test failure.
 
-(Further background on this project)[https://fidel.ie//2017/07/16/selfcontained-jar-for-blackbox-testing.html]
+[Further background on this project](https://fidel.ie//2017/07/16/selfcontained-jar-for-blackbox-testing.html)
 
 ## Building a "selfcontained" .jar
 
